@@ -1,4 +1,4 @@
-pip install streamlit pandas numpy matplotlib
+#pip install streamlit pandas numpy matplotlib
 import streamlit as st
 import pandas as pd
 import numpy as np
